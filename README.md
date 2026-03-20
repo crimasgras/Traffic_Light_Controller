@@ -16,7 +16,7 @@ A hardware traffic light controller I designed and implemented on a Basys3 FPGA 
 ## Project Structure
 
 - `TrafficLightController.vhd` — top-level module
-- `FSM.vhd` — Finite State Machine logic
+- `Finit_State_Machine.vhd` — Finite State Machine logic
 - `DivizorFrecventa.vhd` — clock frequency divider
 - `Basys3.xdc` — pin constraints for Basys3 board
 
